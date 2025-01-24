@@ -3,4 +3,4 @@
 Community-based open source software focused on delivering simple personal cloud experience around Docker ecosystem.  
 - ZimaOS is a full personal cloud OS developed by the team based on CasaOS.
 
-[Go to Wiki](../../../Docker/wiki/home)  
+[Go to Docker](../../../Docker/wiki/home)  
